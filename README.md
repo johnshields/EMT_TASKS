@@ -1,3 +1,3 @@
 # ET-Lab-assements
 
-A repo for my lab assements in Emering Technolgies
+A repo for my lab assements in Emerging Technolgies
