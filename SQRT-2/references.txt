@@ -6,3 +6,4 @@ https://stackoverflow.com/questions/9595135/how-do-i-calculate-square-root-in-py
 https://www.w3schools.com/python/ref_func_abs.asp
 https://tour.golang.org/flowcontrol/8
 https://www.codegrepper.com/code-examples/python/python+print+2+decimal+places
+https://medium.com/@surajregmi/how-to-calculate-the-square-root-of-a-number-newton-raphson-method-f8007714f64

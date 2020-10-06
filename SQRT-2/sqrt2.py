@@ -12,9 +12,9 @@ def sqrt(x):
     return y
 
 # calculate the sqrt
-y = sqrt(100)
+y = sqrt(2)
 
 # print result
 print(y)
-# print result
+
 print(y*y)
