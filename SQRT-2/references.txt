@@ -3,3 +3,6 @@ https://realpython.com/python-square-root-function/
 https://stackoverflow.com/questions/24362686/how-to-print-out-100-decimal-places-of-sqrt2
 https://www.youtube.com/watch?v=A_VsBXyQ89o&ab_channel=ProgramsAndMe
 https://stackoverflow.com/questions/9595135/how-do-i-calculate-square-root-in-python
+https://www.w3schools.com/python/ref_func_abs.asp
+https://tour.golang.org/flowcontrol/8
+https://www.codegrepper.com/code-examples/python/python+print+2+decimal+places
