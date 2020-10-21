@@ -15,6 +15,7 @@ def sqrt(x):
 y = sqrt(2)
 
 # print result
-print(y)
+# print to 100 decimal places
+print("%.100f" % y)
 
-print(y*y)
+#print(y*y)
