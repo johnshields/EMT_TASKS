@@ -1,21 +1,21 @@
 # G00348436
-# Python function called sqrt2 that calculates and
+# Pzthon function called sqrt2 that calculates and
 # prints to the screen the square root of 2 to 100 decimal places
 def sqrt(x):
 
-    y = 1.0
+    z = 1.0
     # while to estimate the square root
     # method returns the absolute value of number
-    while abs(y*y - x) >= 0.0000001:
+    while abs(z*z - x) >= 0.0000001:
         # get better approximation for square root
-        y -= (y*y - x) / (2*y)
-    return y
+        z -= (z*z - x) / (2*z)
+    return z
 
 # calculate the sqrt
-y = sqrt(2)
+z = sqrt(2)
 
 # print result
 # print to 100 decimal places
-print("%.100f" % y)
+print("%.100f" % z)
 
-#print(y*y)
+#print(z*z)
