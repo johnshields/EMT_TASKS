@@ -1,6 +1,6 @@
 # ET-Lab-assements
 
-A repo for my lab assements in Emerging Technologies...
+A repo for my lab assessments in Emerging Technologies...
 
 # LAB TASKS
 
