@@ -2,12 +2,12 @@
 
 A repo for my lab assements in Emerging Technologies...
 
-**LAB TASKS**
+# LAB TASKS
 
-## TASK 1 = SQRT2
+#### TASK 1 = SQRT2
 
-## TASK 2 = Chi-squared test for independence
+#### TASK 2 = Chi-squared test for independence
 
-## TASK 3 = Standard deviation
+#### TASK 3 = Standard deviation
 
-## TASK 4 =
+#### TASK 4 =
