@@ -1,4 +1,4 @@
-# ET-Lab-assements
+# Emerging Techologies
 
 A repo for my lab assessments in Emerging Technologies...
 
