@@ -1,4 +1,4 @@
-# Emerging Techologies
+# Emerging Technologies
 
 A repo for my lab assessments in Emerging Technologies...
 
