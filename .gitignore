@@ -135,6 +135,5 @@ dmypy.json
 images/
 
 
-# PyCharm IDE
-# .idea/
-
+# jetbrains PyCharm
+.idea/
