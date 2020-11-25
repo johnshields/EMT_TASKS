@@ -133,3 +133,8 @@ dmypy.json
 
 # research images
 images/
+
+
+# PyCharm IDE
+# .idea/
+
