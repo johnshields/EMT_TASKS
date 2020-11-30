@@ -10,4 +10,4 @@ A repo for my lab assessments in Emerging Technologies...
 
 #### TASK 3 = Standard deviation
 
-#### TASK 4 =
+#### TASK 4 = k-means Clustering
