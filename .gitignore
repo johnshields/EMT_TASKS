@@ -137,3 +137,6 @@ images/
 
 # jetbrains PyCharm
 .idea/
+
+# Task 4 python file
+task4.py
