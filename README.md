@@ -10,4 +10,4 @@ A repo for my lab assessments in Emerging Technologies...
 
 #### TASK 3 = Standard deviation
 
-#### TASK 4 = K-means clustering to Fisher’s famous Iris data set.
+#### TASK 4 = K-means clustering to Fisher’s famous Iris data set
