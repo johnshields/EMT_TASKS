@@ -1,10 +1,10 @@
 # Emerging Technologies
 #### John Shields - G00348436 
 
-A repo for my lab assessments in Emerging Technologies...
+A repo for my task assessments in Emerging Technologies...
 
 ***
-# LAB TASKS
+# Task assessments:
 
 #### TASK 1 = SQRT2
 
@@ -17,7 +17,7 @@ A repo for my lab assessments in Emerging Technologies...
 ***
 # How to run:
 ## From Github
-View the Jupyter Notebook [here](https://github.com/johnshields/EMT_TASKS/blob/main/Tasks%20Notebook.ipynb). All the cells should automatically run.
+View the Jupyter Notebook [here](https://github.com/johnshields/EMT_TASKS/blob/main/Tasks%20Notebook.ipynb). All the cells should run automatically.
 
 ## From Jupyter Notebook
 ### Requirements
